@@ -4,7 +4,7 @@
     <list default="true" id="1e033770-b7d1-4b83-b6b0-f93b89b3ba17" name="Default" comment="" />
     <ignored path="Minecraft shit.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/fragment.java" changelist="1e033770-b7d1-4b83-b6b0-f93b89b3ba17" time="1388746451017" ignored="false" />
+    <file path="/fragment.java" changelist="1e033770-b7d1-4b83-b6b0-f93b89b3ba17" time="1388784924646" ignored="false" />
     <file path="/WoodenPickaxe.java" changelist="1e033770-b7d1-4b83-b6b0-f93b89b3ba17" time="1388433644120" ignored="false" />
     <file path="/Item.java" changelist="1e033770-b7d1-4b83-b6b0-f93b89b3ba17" time="1388782566285" ignored="false" />
     <file path="/OakWoodPlanks.java" changelist="1e033770-b7d1-4b83-b6b0-f93b89b3ba17" time="1388611860817" ignored="false" />
@@ -93,6 +93,7 @@
     <file path="/ThreeHigh.java" changelist="1e033770-b7d1-4b83-b6b0-f93b89b3ba17" time="1388773021004" ignored="false" />
     <file path="/AllItems.java" changelist="1e033770-b7d1-4b83-b6b0-f93b89b3ba17" time="1388773727118" ignored="false" />
     <file path="/Everything.java" changelist="1e033770-b7d1-4b83-b6b0-f93b89b3ba17" time="1388780662558" ignored="false" />
+    <file path="/build.gradle" changelist="1e033770-b7d1-4b83-b6b0-f93b89b3ba17" time="1388786333761" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,105 +154,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ItemInfo.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/net/mms_projects/minecraft_info/ItemInfo.java">
+      <file leaf-file-name="build.gradle" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="142" column="31" selection-start="5589" selection-end="5589" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#3441#3452#0" expanded="true" />
-                <element signature="e#3683#3717#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Bow.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/net/mms_projects/minecraft_info/items/weapons/Bow.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="34" selection-start="433" selection-end="433" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MultiItem.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/net/mms_projects/minecraft_info/items/MultiItem.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="33" selection-start="261" selection-end="261" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Wool.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/net/mms_projects/minecraft_info/items/blocks/wool/Wool.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="31" selection-start="199" selection-end="199" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Item.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/net/mms_projects/minecraft_info/Item.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="166" column="53" selection-start="4559" selection-end="4559" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#434#466#0" expanded="true" />
-                <element signature="e#755#778#0" expanded="true" />
-                <element signature="e#902#925#0" expanded="true" />
-                <element signature="e#1075#1098#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BlackWool.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/net/mms_projects/minecraft_info/items/blocks/wool/BlackWool.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="8" selection-start="254" selection-end="309" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GreenWool.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/net/mms_projects/minecraft_info/items/blocks/wool/GreenWool.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="28" selection-start="311" selection-end="311" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Everything.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/net/mms_projects/minecraft_info/items/fake/Everything.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="97" column="47" selection-start="4518" selection-end="4518" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GoldIngot.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/net/mms_projects/minecraft_info/items/materials/GoldIngot.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="44" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Coal.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/net/mms_projects/minecraft_info/items/materials/Coal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="10" selection-start="299" selection-end="299" vertical-scroll-proportion="0.0">
+            <state line="8" column="36" selection-start="137" selection-end="137" vertical-scroll-proportion="0.31496063">
               <folding />
             </state>
           </provider>
@@ -267,7 +173,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/net/mms_projects/minecraft_info/items/redstone/RedstoneTorch.java" />
         <option value="$PROJECT_DIR$/src/main/net/mms_projects/minecraft_info/items/redstone/RedstoneRepeater.java" />
         <option value="$PROJECT_DIR$/src/main/net/mms_projects/minecraft_info/items/redstone/PressurePlate.java" />
         <option value="$PROJECT_DIR$/src/main/net/mms_projects/minecraft_info/items/blocks/BlockOfCoal.java" />
@@ -277,12 +182,13 @@
         <option value="$PROJECT_DIR$/src/main/net/mms_projects/minecraft_info/items/weapons/Bow.java" />
         <option value="$PROJECT_DIR$/src/main/net/mms_projects/minecraft_info/items/materials/Coal.java" />
         <option value="$PROJECT_DIR$/src/main/net/mms_projects/minecraft_info/items/materials/GoldIngot.java" />
-        <option value="$PROJECT_DIR$/src/main/net/mms_projects/minecraft_info/ItemInfo.java" />
         <option value="$PROJECT_DIR$/src/main/net/mms_projects/minecraft_info/items/fake/Everything.java" />
         <option value="$PROJECT_DIR$/src/main/net/mms_projects/minecraft_info/items/blocks/wool/BlackWool.java" />
         <option value="$PROJECT_DIR$/src/main/net/mms_projects/minecraft_info/items/blocks/wool/GreenWool.java" />
         <option value="$PROJECT_DIR$/src/main/net/mms_projects/minecraft_info/items/blocks/wool/Wool.java" />
         <option value="$PROJECT_DIR$/src/main/net/mms_projects/minecraft_info/Item.java" />
+        <option value="$PROJECT_DIR$/src/main/net/mms_projects/minecraft_info/ItemInfo.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
       </list>
     </option>
   </component>
@@ -400,6 +306,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="minecraft_info" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -419,6 +329,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -445,6 +359,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -475,6 +393,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -512,6 +434,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="minecraft_info" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -543,6 +469,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -580,6 +510,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="minecraft_info" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -611,6 +545,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -648,6 +586,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="minecraft_info" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -678,6 +620,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="minecraft_info" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -705,6 +651,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -742,6 +692,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="minecraft_info" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -769,6 +723,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -802,6 +760,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="minecraft_info" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -829,6 +791,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -863,6 +829,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -904,6 +874,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="minecraft_info" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -935,6 +909,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -972,6 +950,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="minecraft_info" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -995,6 +977,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -1048,6 +1034,9 @@
     <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="net.mms_projects.minecraft_info.crafting" />
       <recent name="net.mms_projects.minecraft_info" />
@@ -1056,24 +1045,27 @@
   <component name="RunManager" selected="Application.ItemInfo">
     <configuration default="false" name="ItemInfo" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="net.mms_projects.minecraft_info.ItemInfo" />
-      <option name="VM_PARAMETERS" value="-Djava.util.logging.config.file=/etc/java-7-openjdk/logging.properties" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Minecraft shit" />
+      <module name="Minecraft Info" />
       <envs />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
       <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -1205,7 +1197,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-4" width="1303" height="773" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="165" y="124" width="1103" height="573" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1221,7 +1213,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24940239" sideWeight="0.6512" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24940239" sideWeight="0.6512" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3488" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1295,16 +1287,7 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/net/mms_projects/minecraft_info/crafting/grids/TwoByThree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="4" selection-start="201" selection-end="321" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/net/mms_projects/minecraft_info/crafting/grids/ThreeHigh.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/mms_projects/minecraft_info/crafting/grids/ThreeHigh.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="0" selection-start="156" selection-end="156" vertical-scroll-proportion="0.0">
           <folding>
@@ -1313,7 +1296,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/net/mms_projects/minecraft_info/items/materials/IronIngot.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/mms_projects/minecraft_info/items/materials/IronIngot.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="39" selection-start="273" selection-end="273" vertical-scroll-proportion="0.0">
           <folding>
@@ -1322,81 +1305,81 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/net/mms_projects/minecraft_info/items/blocks/ores/IronOre.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/mms_projects/minecraft_info/items/blocks/ores/IronOre.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="13" selection-start="197" selection-end="197" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/net/mms_projects/minecraft_info/crafting/Grid.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/mms_projects/minecraft_info/crafting/Grid.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="13" selection-start="110" selection-end="110" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/net/mms_projects/minecraft_info/items/tools/gold/GoldPickaxe.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/mms_projects/minecraft_info/items/tools/gold/GoldPickaxe.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="7" selection-start="238" selection-end="238" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/net/mms_projects/minecraft_info/items/weapons/Bow.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/mms_projects/minecraft_info/items/weapons/Bow.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="34" selection-start="433" selection-end="433" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/net/mms_projects/minecraft_info/items/materials/Coal.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/mms_projects/minecraft_info/items/materials/Coal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="10" selection-start="299" selection-end="299" vertical-scroll-proportion="0.0">
+        <state line="9" column="10" selection-start="299" selection-end="299" vertical-scroll-proportion="0.27559054">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/net/mms_projects/minecraft_info/items/materials/GoldIngot.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/mms_projects/minecraft_info/items/materials/GoldIngot.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="44" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0">
+        <state line="2" column="44" selection-start="102" selection-end="102" vertical-scroll-proportion="0.07874016">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/net/mms_projects/minecraft_info/items/MultiItem.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/mms_projects/minecraft_info/items/MultiItem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="33" selection-start="261" selection-end="261" vertical-scroll-proportion="0.0">
+        <state line="9" column="33" selection-start="261" selection-end="261" vertical-scroll-proportion="0.16666667">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/net/mms_projects/minecraft_info/items/blocks/wool/BlackWool.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/mms_projects/minecraft_info/items/blocks/wool/BlackWool.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="8" selection-start="254" selection-end="309" vertical-scroll-proportion="0.0">
+        <state line="8" column="8" selection-start="254" selection-end="309" vertical-scroll-proportion="0.27559054">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/net/mms_projects/minecraft_info/items/blocks/wool/GreenWool.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/mms_projects/minecraft_info/items/blocks/wool/GreenWool.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="28" selection-start="311" selection-end="311" vertical-scroll-proportion="0.0">
+        <state line="9" column="28" selection-start="311" selection-end="311" vertical-scroll-proportion="0.35433072">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/net/mms_projects/minecraft_info/items/blocks/wool/Wool.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/mms_projects/minecraft_info/items/blocks/wool/Wool.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="31" selection-start="199" selection-end="199" vertical-scroll-proportion="0.0">
+        <state line="7" column="31" selection-start="199" selection-end="199" vertical-scroll-proportion="0.27559054">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/net/mms_projects/minecraft_info/Item.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/mms_projects/minecraft_info/Item.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="166" column="53" selection-start="4559" selection-end="4559" vertical-scroll-proportion="0.0">
+        <state line="166" column="53" selection-start="4559" selection-end="4559" vertical-scroll-proportion="0.78740156">
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#434#466#0" expanded="true" />
@@ -1407,23 +1390,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/net/mms_projects/minecraft_info/ItemInfo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/mms_projects/minecraft_info/items/fake/Everything.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="142" column="31" selection-start="5589" selection-end="5589" vertical-scroll-proportion="0.0">
+        <state line="97" column="47" selection-start="4518" selection-end="4518" vertical-scroll-proportion="0.8267717">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#3441#3452#0" expanded="true" />
-            <element signature="e#3683#3717#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/net/mms_projects/minecraft_info/items/fake/Everything.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/mms_projects/minecraft_info/ItemInfo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="97" column="47" selection-start="4518" selection-end="4518" vertical-scroll-proportion="0.0">
+        <state line="0" column="8" selection-start="8" selection-end="39" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#3439#3450#0" expanded="true" />
+            <element signature="e#3681#3715#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="36" selection-start="137" selection-end="137" vertical-scroll-proportion="0.31496063">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1456,6 +1446,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
+          <last-edited>groovy-1.8.6</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1479,7 +1470,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Minecraft shit</last-edited>
+          <last-edited>Minecraft Info</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1492,6 +1483,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>slf4j-api-1.7.5</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

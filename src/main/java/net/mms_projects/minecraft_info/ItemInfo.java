@@ -53,7 +53,7 @@ public class ItemInfo {
          //showItemInfo(IronOre.class);
 //         showItemInfo(Coal.class);
 //         showItemInfo(Wood.class);
-        //showItemInfo(RedstoneRepeater.class);
+        showItemInfo(RedstoneRepeater.class);
         //  showItemInfo(IronOre.class);
         //showItemInfo(EnchantmentTable.class);
 //         showItemInfo(RedstoneRepeater.class);
