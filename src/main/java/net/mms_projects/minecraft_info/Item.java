@@ -142,6 +142,14 @@ public class Item {
         this.chunkAppearancePercentage = percentage;
     }
 
+    protected void setChunkAppearance(int amountPerChunk) {
+        this.setChunkAppearance(amountPerChunk, 16384);
+    }
+
+    protected void setChunkAppearance(int amountPerChunk, int blocksPerChunk) {
+        this.setChunkAppearancePercentage((float) amountPerChunk / blocksPerChunk * 100);
+    }
+
     public boolean isChoppable() {
         return this.isChoppable;
     }
