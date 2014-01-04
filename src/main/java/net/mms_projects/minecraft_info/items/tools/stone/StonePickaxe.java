@@ -1,14 +1,12 @@
 package net.mms_projects.minecraft_info.items.tools.stone;
 
-import net.mms_projects.minecraft_info.Item;
 import net.mms_projects.minecraft_info.items.blocks.Cobblestone;
-import net.mms_projects.minecraft_info.items.materials.Stick;
+import net.mms_projects.minecraft_info.items.tools.Pickaxe;
 
-public class StonePickaxe extends Item {
+public class StonePickaxe extends Pickaxe {
 
     public StonePickaxe() {
-        this.addCraftingIngredient(Cobblestone.class, 3);
-        this.addCraftingIngredient(Stick.class, 2);
+        super(Cobblestone.class);
     }
 
 }

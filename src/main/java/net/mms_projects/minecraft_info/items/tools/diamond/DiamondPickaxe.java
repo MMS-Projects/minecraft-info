@@ -1,14 +1,12 @@
 package net.mms_projects.minecraft_info.items.tools.diamond;
 
-import net.mms_projects.minecraft_info.Item;
 import net.mms_projects.minecraft_info.items.materials.Diamond;
-import net.mms_projects.minecraft_info.items.materials.Stick;
+import net.mms_projects.minecraft_info.items.tools.Pickaxe;
 
-public class DiamondPickaxe extends Item {
+public class DiamondPickaxe extends Pickaxe {
 
     public DiamondPickaxe() {
-        this.addCraftingIngredient(Diamond.class, 3);
-        this.addCraftingIngredient(Stick.class, 2);
+        super(Diamond.class);
     }
 
 }
