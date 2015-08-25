@@ -31,6 +31,10 @@ public class PriceCalculator {
             }
         }
 
+        for (Way way : item.getWays()) {
+            price = price.add(way.getPrice());
+        }
+
         if (item.isMineable()) {
             price = price.add(calculateMiningPrice(genericItem));
         }
@@ -105,7 +109,7 @@ public class PriceCalculator {
 
         if (item.hasChunkAppearancePercentage()) {
             int blockBasePrice = 10;
-            int multiplier = 2000;
+            int multiplier = 20;
             double priceMultiplier = Math.abs(multiplier - (item.getChunkAppearancePercentage() * multiplier)) / 100;
 
             price = price.add(BigDecimal.valueOf(blockBasePrice * priceMultiplier));

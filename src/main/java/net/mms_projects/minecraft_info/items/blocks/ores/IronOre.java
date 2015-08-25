@@ -2,6 +2,7 @@ package net.mms_projects.minecraft_info.items.blocks.ores;
 
 import net.mms_projects.minecraft_info.items.Block;
 import net.mms_projects.minecraft_info.items.tools.stone.StonePickaxe;
+import net.mms_projects.minecraft_info.ways.Mining;
 
 public class IronOre extends Block {
 
@@ -9,6 +10,7 @@ public class IronOre extends Block {
         this.setMineable(true);
         this.setRequiredMiningPickaxe(StonePickaxe.class);
         //this.addMinedSourceBlock(IronOre.class);
+
         this.setChunkAppearancePercentage(0.68f);
     }
 }

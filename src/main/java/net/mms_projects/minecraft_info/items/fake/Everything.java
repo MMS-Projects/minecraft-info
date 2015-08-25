@@ -1,7 +1,6 @@
 package net.mms_projects.minecraft_info.items.fake;
 
 import net.mms_projects.minecraft_info.Item;
-import net.mms_projects.minecraft_info.items.MultiItem;
 import net.mms_projects.minecraft_info.items.blocks.ores.CoalOre;
 import net.mms_projects.minecraft_info.items.blocks.ores.DiamondOre;
 import net.mms_projects.minecraft_info.items.blocks.ores.IronOre;

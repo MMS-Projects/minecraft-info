@@ -2,6 +2,9 @@ package net.mms_projects.minecraft_info.crafting;
 
 import net.mms_projects.minecraft_info.Item;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class Grid {
 
     private final int heigth;
@@ -26,8 +29,18 @@ public class Grid {
         }
     }
 
-    public Class<? extends Item>[] getItems() {
-        return this.itemGrid;
+    public List<Class<? extends Item>> getItems() {
+        List<Class<? extends Item>> items = new ArrayList<Class<? extends Item>>();
+
+        for (Class<? extends Item> genericItem : this.itemGrid) {
+            if (genericItem == null) {
+                continue;
+            }
+
+            items.add(genericItem);
+        }
+
+        return items;
     }
 
     public int getWidth() {
@@ -38,4 +51,7 @@ public class Grid {
         return this.heigth;
     }
 
+    public Class<? extends Item>[] getItemGrid() {
+        return itemGrid;
+    }
 }

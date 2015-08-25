@@ -10,7 +10,8 @@ public class Obsidian extends Item {
     public Obsidian() {
         this.setMineable(true);
         this.setRequiredMiningPickaxe(DiamondPickaxe.class);
-        this.setBasePrice(BigDecimal.valueOf(500));
+
+        this.setBasePrice(BigDecimal.valueOf(40));
     }
 
 }

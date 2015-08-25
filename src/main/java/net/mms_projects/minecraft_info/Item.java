@@ -33,6 +33,8 @@ public class Item {
     private Set<Class<? extends Item>> actualItems = new HashSet<Class<? extends Item>>();
     private Grid craftingGrid;
 
+    private List<Way> ways = new ArrayList<Way>();
+
     protected void setId(int id, String idName) {
         this.id = id;
         this.idName = idName;
@@ -52,6 +54,10 @@ public class Item {
 
     protected void addCraftingIngredient(Class<? extends Item> genericItem) {
         this.addCraftingIngredient(genericItem, 1);
+    }
+
+    protected void addWay(Way way) {
+        this.ways.add(way);
     }
 
     protected void setCraftedAmount(int amount) {
@@ -168,6 +174,10 @@ public class Item {
 
     protected void addActualItem(Class<? extends Item> genericItem) {
         this.actualItems.add(genericItem);
+    }
+
+    public List<Way> getWays() {
+        return this.ways;
     }
 
     @Override

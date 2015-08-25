@@ -3,6 +3,8 @@ package net.mms_projects.minecraft_info.crafting.grids;
 import net.mms_projects.minecraft_info.Item;
 import net.mms_projects.minecraft_info.crafting.Grid;
 
+import java.util.List;
+
 public class TwoWide extends Grid {
 
     public static int LEFT = 1;
@@ -14,7 +16,7 @@ public class TwoWide extends Grid {
 
     @Override
     public String toString() {
-        Class<? extends Item>[] items = this.getItems();
+        List<Class<? extends Item>> items = this.getItems();
 
         String bla = "";
 
